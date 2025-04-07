@@ -3,12 +3,10 @@ kind: Component
 metadata:
   # Name of the project 
   name: flutter_keychain_forked
-  description: A few scripts to administer git repos and permissions
+  description: A flutter plugin for secure storage on Android via KeyStore and iOS via Keychain
   # Specifies the directory of the docs
   annotations:
     backstage.io/techdocs-ref: dir:.
-
-  labels:
 
   links:
     # Slack channel to write in for communicating with the resposible team.
